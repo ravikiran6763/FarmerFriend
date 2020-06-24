@@ -4,7 +4,7 @@ void main() {
   runApp(MaterialApp(
     home: Scaffold(
       appBar: AppBar(
-        title: Text('Farmer Friend'),
+        title: Text('HOME'),
         backgroundColor: Colors.greenAccent[400],
       ),
       body: Center(
